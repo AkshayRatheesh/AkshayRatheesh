@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, I'm AKSHAY</h1>
 <h3 align="center">A passionate frontend developerveloper from Kerala</h3>
 
-- 🌱 I’m currently learning **Nodejs, Express ,cloud tech.....**
+- 🌱 I’m currently learning **Nodejs, Express.....**
 
 - 📫 How to reach me **akshaypathickal@gmail.com**
 
