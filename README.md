@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **akshaypathickal@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1LFoZpE8TaRTuYgKWFnnwzIjPlgVfn9tq/view?usp=sharing](https://drive.google.com/file/d/1LFoZpE8TaRTuYgKWFnnwzIjPlgVfn9tq/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1LFoZpE8TaRTuYgKWFnnwzIjPlgVfn9tq/view?usp=sharing](https://drive.google.com/file/d/1LFoZpE8TaRTuYgKWFnnwzI-removed-/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
