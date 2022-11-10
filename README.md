@@ -1,5 +1,5 @@
-<h1 align="center">Hello 👋, I'm AKSHAY</h1>
-<h3 align="center">A passionate developer from Kerala</h3>
+<h1 align="center">Hello world 👋, I'm AKSHAY</h1>
+<h3 align="center">A passionate Cloud engineer from Kerala</h3>
 
 - 🌱 I’m always learning **.....**
 
