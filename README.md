@@ -29,14 +29,29 @@
  <a href="" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Logo-ubuntu_cof-orange-hex.svg/1200px-Logo-ubuntu_cof-orange-hex.svg.png" alt="react" width="40" height="40"/></a>
 <a href="" target="_blank" rel="noreferrer"><img src="https://42vnof42im1n3ecs8l2w7ez1-wpengine.netdna-ssl.com/wp-content/uploads/2020/07/AWS-Lambda@4x-190x190.png" alt="react" width="40" height="40"/></a>
   <a href="" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/practicaldev/image/fetch/s--bZ7myZIR--/c_imagga_scale,f_auto,fl_progressive,h_1080,q_auto,w_1080/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/ip7ork2m951siwgpkety.png" alt="react" width="40" height="40"/></a>
+  
+  
+  
+  
+   ▄▄▄       ██ ▄█▀  ██████  ██░ ██  ▄▄▄     ▓██   ██▓
+▒████▄     ██▄█▒ ▒██    ▒ ▓██░ ██▒▒████▄    ▒██  ██▒
+▒██  ▀█▄  ▓███▄░ ░ ▓██▄   ▒██▀▀██░▒██  ▀█▄   ▒██ ██░
+░██▄▄▄▄██ ▓██ █▄   ▒   ██▒░▓█ ░██ ░██▄▄▄▄██  ░ ▐██▓░
+ ▓█   ▓██▒▒██▒ █▄▒██████▒▒░▓█▒░██▓ ▓█   ▓██▒ ░ ██▒▓░
+ ▒▒   ▓▒█░▒ ▒▒ ▓▒▒ ▒▓▒ ▒ ░ ▒ ░░▒░▒ ▒▒   ▓▒█░  ██▒▒▒ 
+  ▒   ▒▒ ░░ ░▒ ▒░░ ░▒  ░ ░ ▒ ░▒░ ░  ▒   ▒▒ ░▓██ ░▒░ 
+  ░   ▒   ░ ░░ ░ ░  ░  ░   ░  ░░ ░  ░   ▒   ▒ ▒ ░░  
+      ░  ░░  ░         ░   ░  ░  ░      ░  ░░ ░     
+                                            ░ ░     
 
 
-
-
-
-
-
-
+ █████╗ ██╗  ██╗███████╗██╗  ██╗ █████╗ ██╗   ██╗
+██╔══██╗██║ ██╔╝██╔════╝██║  ██║██╔══██╗╚██╗ ██╔╝
+███████║█████╔╝ ███████╗███████║███████║ ╚████╔╝ 
+██╔══██║██╔═██╗ ╚════██║██╔══██║██╔══██║  ╚██╔╝  
+██║  ██║██║  ██╗███████║██║  ██║██║  ██║   ██║   
+╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝╚═╝  ╚═╝   ╚═╝   
+                                                 
 
 
 
