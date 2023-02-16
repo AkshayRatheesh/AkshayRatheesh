@@ -1,8 +1,7 @@
 <h1 align="center">Hello world 👋, I'm AKSHAY</h1>
 <h3 align="center">A passionate Cloud engineer from Kerala</h3>
 
-- 🌱 I’m always learning **.....**
-
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15DA00&width=435&lines=I'm+Always+Learning...)](https://git.io/typing-svg)
 - 📫 How to reach me **akshaypathickal@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LFoZpE8TaRTuYgKWFnnwzIjPlgVfn9tq/view?usp=sharing](https://drive.google.com/file/d/1LFoZpE8TaRTuYgKWFnnwzI-removed-/view?usp=sharing)
