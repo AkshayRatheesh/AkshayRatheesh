@@ -1,7 +1,32 @@
-<h1 align="center">Hello world 👋, I'm AKSHAY</h1>
-<h3 align="center">A passionate Cloud engineer from Kerala</h3>
+<h1 align="center">Hello world 👋, I'm AKSHAY<br><br></h1>
 
- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15DA00&width=435&lines=I'm+Always+Learning...)](https://git.io/typing-svg)
+ [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=15DA00&width=435&lines=Welcome+to+my+Github+profile!)](https://git.io/typing-svg)
+ 
+ 
+ 
+
+
+I am a passionate Cloud engineer from Kerala, India. I have been working with cloud technologies for the past few years and I have gained a lot of experience in the field of cloud engineering.
+
+I'm very enthusiastic about learning new technologies and exploring different cloud and DevOps solutions.
+
+I specialize in deploying cloud-based applications, managing cloud infrastructure, and optimizing cloud performance. I am well-versed in a wide range of cloud technologies including AWS and GCP. Additionally, I have a strong understanding of DevOps principles and practices and I am familiar with containerization and DevOps tools like Terraform, Ansible, and GitLab-cicd for automation
+
+I'm here to share my knowledge and experience with the community and to learn from others.
+Feel free to take a look at my projects and contact me if you have any questions or if you would like to collaborate!
+ 
+Thanks for visiting!
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 - 📫 How to reach me **akshaypathickal@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1LFoZpE8TaRTuYgKWFnnwzIjPlgVfn9tq/view?usp=sharing](https://drive.google.com/file/d/1LFoZpE8TaRTuYgKWFnnwzI-removed-/view?usp=sharing)
